@@ -1,10 +1,10 @@
 # Pennstagram
 
-+ PixelPicture.java, which manages the reading and writing of image data.\
-+ GUI.java, the simple GUI for the program (which you can run to help you test Parts 3 and 4).\
-+ ColorMap.java, a Map data structure that helps build histograms.\
-+ ManipulateTest.java, a JUnit test file for the image manipulations.\
-+ PointQueue.java, a data structure for managing queues of ints (needed only for the Kudos flood fill problem).\
++ PixelPicture.java, which manages the reading and writing of image data
++ GUI.java, the simple GUI for the program (which you can run to help you test Parts 3 and 4).
++ ColorMap.java, a Map data structure that helps build histograms.
++ ManipulateTest.java, a JUnit test file for the image manipulations.
++ PointQueue.java, a data structure for managing queues of ints (needed only for the Kudos flood fill problem).
 + Pixel.java, which is a point of color in an image. You’ll have to finish a few constructors (Pixel()), getRed(), getGreen(), getBlue(), getComponents(), distance(), toString() and equals().
 + MyPixelTest.java, which contains an example test for Pixel. You will need to add your own tests to ensure your code works the way you want it to.
 + SimpleManipulations.java, a collection of simpler image manipulations. You’ll have to finish rotateCCW(), border(), invertColors(), grayScaleAverage(), scaleColors(), and alphaBlend().
